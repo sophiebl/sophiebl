@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophie
-- 👩🏻‍💻I’m currently working at <a href="https://escape.tech/"> Escape </a> as a UX developer
+- 👩🏻‍💻 I’m currently working at <a href="https://escape.tech/"> Escape </a> as a UX developer
 - 👀 I’m interested by Front-End technologies & UI Design
 
 <!---
