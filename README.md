@@ -1,25 +1,27 @@
-## Frontend Developer (Vue.js / TypeScript) & Product Designer
+## 💻 Frontend Developer (Vue.js / TypeScript) — Product Designer
 
-Frontend developer focused on building scalable, maintainable, and performant web applications.
+Frontend developer & product designer, bridging the gap between **design and engineering**.
 
-Strong experience working on SaaS products, with an emphasis on clean architecture, complex data handling, and efficient UI systems.
+I build scalable, maintainable, and performant SaaS applications, with a focus on clean architecture, complex data handling, and cohesive UI systems.
 
-### Stack
+### ⚙️ Stack
 - Vue.js (Composition API)
+- Svelte
 - TypeScript
-- Svelte.js
+- GraphQL
 - State management & data flows
 - AG Grid (advanced data tables, filtering, performance)
 - REST APIs / integrations
 
-### What I focus on
-- Building robust and scalable frontend architectures
-- Handling complex datasets and user interactions
-- Writing maintainable, type-safe code
-- Optimizing performance and rendering
-- Bridging product logic with technical implementation
+### 🎯 What I focus on
+- Building robust and scalable frontend architectures  
+- Handling complex datasets and user interactions  
+- Writing maintainable, type-safe code  
+- Optimizing performance and rendering  
+- Bridging product logic with technical implementation  
 
-### Also
-- Product design background (UX/UI)
-- Strong understanding of user flows and product constraints
-- Used to working closely with product & engineering teams
+### 🎨 Product & Design
+- Product Designer background (UX/UI)
+- Design systems (creation, scaling, consistency)
+- Strong collaboration between design & engineering
+- Translating user needs into technical solutions
