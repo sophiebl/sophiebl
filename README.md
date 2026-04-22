@@ -1,4 +1,4 @@
-## 💻 Frontend Developer (Vue.js / TypeScript) — Product Designer
+## 💻 Frontend Developer — Product Designer
 
 Frontend developer & product designer, bridging the gap between **design and engineering**.
 
